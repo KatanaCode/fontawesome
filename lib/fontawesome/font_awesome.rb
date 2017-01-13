@@ -256,6 +256,8 @@ class FontAwesome
                 "github-alt" => 0xf113,
                 "folder-close-alt" => 0xf114,
                 "folder-open-alt" => 0xf115,
+                # @bodacious Added this
+                "id-card-o" => 0xf2c3,
 
             };
         end
